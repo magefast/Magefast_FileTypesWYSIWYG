@@ -1,7 +1,7 @@
 # Magefast_FileTypesWYSIWYG
 Magento 1 module - Magefast_FileTypesWYSIWYG
 
-### With this extension will available to upload new file formats - *.gz, *.zip, *.pdf, *.mp3, *.mp4, *.flv, *.odf, *.doc, *.xml, *xls, *.xlsx, *.csv
+### With this extension will available to upload new file formats
 
 Additional type of files for WYSIWYG editor. 
 
